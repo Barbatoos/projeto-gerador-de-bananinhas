@@ -1,0 +1,68 @@
+
+
+* {
+    background-color: rgb(147, 233, 159);
+     
+    font-family:monospace; 
+    
+    
+    
+    
+    
+    margin: 0;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: large;
+    color:rgb(97, 31, 5);
+    display: block
+    
+}
+
+header{
+    font-family:'Times New Roman', Times, serif;
+    padding: 2rem;
+    color: rgb(17, 61, 26);
+    background-color: rgb(12, 139, 80);
+}
+
+h1 {
+    margin: 5px;
+}
+
+h2{
+    margin: 5px;
+    display: block;
+    display: none;
+}
+
+h3 {
+    margin: 5px;
+    
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(12, 139, 80);
+    color: rgb(17, 61, 26);
+}
+
+a {
+    color: rgb(122, 6, 6);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+p {
+     text-decoration-line: underline;
+}
+
+footer{
+    background-color: rgb(17, 61, 26);
+    size:10%;
+}
